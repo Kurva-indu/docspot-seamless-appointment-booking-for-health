@@ -1,1 +1,6 @@
+mkdir book-a-doctor
+cd book-a-doctor
+mkdir backend
+cd backend
+npm init -y
 
